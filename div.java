@@ -8,12 +8,11 @@ public class div {
         int div = a / b;
         System.out.println(div);
 
-        int x,y;
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter First Number:");
-        x= scanner.nextInt();
+        int x= scanner.nextInt();
         System.out.println("Enter Another Number:");
-        y = scanner.nextInt();
+        int y = scanner.nextInt();
         System.out.println("Divide is " + div);
     }
 }

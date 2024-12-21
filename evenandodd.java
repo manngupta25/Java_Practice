@@ -2,9 +2,9 @@ import java.util.Scanner;
 
 public class evenandodd {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner scan = new Scanner(System.in);
         System.out.println("Enter Number :");
-        int number = scanner.nextInt();
+        int number = scan.nextInt();
 
         // Find out if the number above is even or odd
         if (number % 2 == 0) {
