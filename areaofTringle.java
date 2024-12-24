@@ -1,3 +1,4 @@
+//this program is to calculate the area of a triangle.
 public class areaofTringle {
     public static void main(String[] args) {
         float b = 4, h = 13, area;

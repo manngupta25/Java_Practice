@@ -1,3 +1,4 @@
+// this program helps us to calculate the area of the circle.
 public class areaofCircle{
     public static void main(String[] args)
     {
